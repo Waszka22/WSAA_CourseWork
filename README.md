@@ -20,6 +20,7 @@ This repository stores the Web Services and Applications module, part of the <em
 ## Assignments
 
 ### ***Assignment 02 Deal Cards***
+Task
 
 API used:
 https://deckofcardsapi.com/
@@ -39,11 +40,10 @@ from the Central Statistics Office (CSO) API.
 Task
 
 Write a Python program that reads a file from a GitHub repository, replaces all instances of the text **"Andrew"** with **"Agnieszka"**, commits the changes, and pushes the updated file back to the repository.  
-Authentication is required to perform the update.
 
 ---
 
- ## How to Download Repository
+ ### How to Download Repository
 
  Clone this repository in VS Code using the following steps:
 
@@ -58,8 +58,19 @@ Authentication is required to perform the update.
 git clone https://github.com/Waszka22/WSAA_CourseWork.git
 git config pull.rebase false
 git pull
-
 ```bash 
+
+
+### How to Run the Code
+
+1. Open the repository folder in **VS Code**.  
+2. Navigate to the **assignments** folder.  
+3. Open the required notebook:
+   - `assignment02.ipynb`
+   - `assignment03-cso.ipynb`
+   - `assignment04-github.ipynb`
+4. Select the **Python kernel** in the top right corner.
+5. Click **Run All** to execute the notebook.
 
 ### Programing Language 
 
