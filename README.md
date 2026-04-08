@@ -64,3 +64,41 @@ Task
 
 5. Saves the updated version
 
+---
+
+ ## Installation
+
+  <strong>1.Install Python</strong>
+  
+ * Ensure that Python is installed on your system:
+
+```bash 
+python --version
+```
+<strong>2. Clone the Repository</strong>
+
+```bash 
+
+git clone https://github.com/Waszka22/WSAA_CourseWork
+```
+<strong>3. Create a Virtual Environment</strong>
+
+* Create a virtual environment to manage project:
+
+```bash
+python -m venv venv
+```
+* Activate the environment:
+
+    - Windows 
+
+```bash
+venv\Scripts\activate
+```
+- macOS/Linux: 
+
+
+```bash 
+source venv/bin/activate
+```
+<strong>4. Install Dependencies</strong>
