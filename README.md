@@ -17,22 +17,6 @@ This repository stores the Web Services and Applications module, part of the <em
 
 ---
 
-### Programing Language 
-
-Python 3.10.9 version was used
-
-* [Python](https://www.python.org/)
-
-
-## Technologies 
-
-Applications used: 
-
-* [Anaconda](https://www.anaconda.com/download)
-* [Visual Studio Code](https://code.visualstudio.com/)
-* [Cmder](https://cmder.app/)
-
-
 ## Assignments
 
 ### ***Assignment 02 Deal Cards***
@@ -54,51 +38,40 @@ from the Central Statistics Office (CSO) API.
 ### ***Assignment 04 Authentication***
 Task
 
-1. Write a Python program that:
-
-2. Reads a file from a repository
-
-3. Authenticates using the appropriate method
-
-4. Updates or replaces content in the file
-
-5. Saves the updated version
+Write a Python program that reads a file from a GitHub repository, replaces all instances of the text **"Andrew"** with **"Agnieszka"**, commits the changes, and pushes the updated file back to the repository.  
+Authentication is required to perform the update.
 
 ---
 
- ## Installation
+ ## How to Download Repository
 
-  <strong>1.Install Python</strong>
-  
- * Ensure that Python is installed on your system:
+ Clone this repository in VS Code using the following steps:
 
-```bash 
-python --version
-```
-<strong>2. Clone the Repository</strong>
+1. Copy the repository URL:https://github.com/Waszka22/WSAA_CourseWork.git
 
-```bash 
+2. Create or select a folder in VS Code where the repository will be stored.
 
-git clone https://github.com/Waszka22/WSAA_CourseWork
-```
-<strong>3. Create a Virtual Environment</strong>
-
-* Create a virtual environment to manage project:
-
-```bash
-python -m venv venv
-```
-* Activate the environment:
-
-    - Windows 
-
-```bash
-venv\Scripts\activate
-```
-- macOS/Linux: 
+3. Open a new terminal in VS Code and run the following command:
 
 
 ```bash 
-source venv/bin/activate
-```
-<strong>4. Install Dependencies</strong>
+git clone https://github.com/Waszka22/WSAA_CourseWork.git
+git config pull.rebase false
+git pull
+
+```bash 
+
+### Programing Language 
+
+Python 3.10.9 version was used
+
+* [Python](https://www.python.org/)
+
+
+## Technologies 
+
+Applications used: 
+
+* [Anaconda](https://www.anaconda.com/download)
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Cmder](https://cmder.app/)
