@@ -53,11 +53,11 @@ Write a Python program that reads a file from a GitHub repository, replaces all 
 
 3. Open a new terminal in VS Code and run the following command:
 
-
-```bash 
+```bash
 git clone https://github.com/Waszka22/WSAA_CourseWork.git
 git config pull.rebase false
 git pull
+```
 
 
 ### How to Run the Code
