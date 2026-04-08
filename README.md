@@ -58,6 +58,7 @@ Write a Python program that reads a file from a GitHub repository, replaces all 
 git clone https://github.com/Waszka22/WSAA_CourseWork.git
 git config pull.rebase false
 git pull
+
 ```bash 
 
 
