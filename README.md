@@ -59,8 +59,6 @@ git clone https://github.com/Waszka22/WSAA_CourseWork.git
 git config pull.rebase false
 git pull
 
-```bash 
-
 
 ### How to Run the Code
 
